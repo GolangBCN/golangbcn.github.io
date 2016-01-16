@@ -1,9 +1,12 @@
 #!/bin/bash
 
+git checkout edition
+git pull --rebase
 git checkout master
 git checkout edition -- public
 cp -R public/* .
 git reset HEAD public
 rm -rf public
-git commit -am "Publishes.."
+git add .
+git commit -m "Publishes new post"
 git push -u origin master
