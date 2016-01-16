@@ -6,6 +6,7 @@ draft: false
 categories:
     - "Blog"
     - "GolangBCN Group"
+image: "golangbcn_community.png"
 ---
 
 We're really happy to announce this blog's release, for enhancement of GolangBCN's group communication.
