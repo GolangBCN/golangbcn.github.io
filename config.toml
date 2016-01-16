@@ -1,7 +1,8 @@
-baseurl = "http://golangbcn.github.io"
+baseurl = "http://golangbcn.github.io/"
 contentdir = "content"
 publishdir = "public"
 title = "Gophers in BCN"
+author = "GolangBCN meetup group"
 languagecode = "en-US"
 canonifyurls = true
 
