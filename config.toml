@@ -1,0 +1,11 @@
+baseurl = "http://golangbcn.github.io"
+contentdir = "content"
+publishdir = "public"
+title = "Gophers in BCN"
+languagecode = "en-US"
+canonifyurls = true
+
+[params]
+    Descripion = "GolangBCN Group's Blog"
+    github = "GolangBCN"
+    twitter = "GolangBCN"
