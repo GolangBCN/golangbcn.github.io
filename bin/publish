@@ -3,6 +3,7 @@
 git checkout edition
 git pull --rebase
 git checkout master
+git pull --rebase
 git checkout edition -- public
 cp -R public/* .
 git reset HEAD public
