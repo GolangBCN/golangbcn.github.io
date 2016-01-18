@@ -4,20 +4,12 @@ if [ "$(whoami)" == "travis" ]; then
   git config --global user.name "Travis for GolangBCN"
   destination="${TRAVIS_PULL_REQUEST}/"
   [ "${TRAVIS_PULL_REQUEST}" == "false" ] && destination=""
-  git checkout --orphan master
+  git checkout master
   mkdir -p ${destination} >/dev/null 2>&1
   cp -R public/* ${destination}.
-  ls -la
-  git status
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md
-  ls -la
-  git status
   git add .
-  ls -la
-  git status
   git rm -rf bin content static .gitignore .travis.yml config.toml README.md
-  ls -la
-  git status
   [ "${TRAVIS_PULL_REQUEST}" != "false" ] && log="${log} in ${destination}"
   git commit -m "Publishing: ${log}"
   git push "https://${GH_TOKEN}@github.com/GolangBCN/golangbcn.github.io.git" master -f >/dev/null 2>&1
