@@ -1,0 +1,16 @@
+language: go
+
+go:
+    - 1.5.2
+    - 1.5.3
+    - tip
+
+install:
+    - go get github.com/spf13/hugo
+
+build:
+    - bin/compile
+
+deploy:
+    - bin/propose
+    - bin/publish
