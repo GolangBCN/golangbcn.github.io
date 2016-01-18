@@ -7,6 +7,8 @@ if [ "$(whoami)" == "travis" ]; then
   git checkout --orphan master
   mkdir -p ${destination} >/dev/null 2>&1
   cp -R public/* ${destination}.
+  ls -la
+  git status
   git rm -rf public bin content static .gitignore .travis.yml config.toml README.md
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md
   git status
