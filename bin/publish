@@ -1,17 +1,9 @@
 #!/bin/bash
 
-if [ -n "${1}" ]; then
-  git checkout edition
-  git pull --rebase
-  git checkout master
-  git pull --rebase
-  git checkout edition -- public
-  cp -R public/* .
-  git reset HEAD public
-  rm -rf public
-  git add .
-  git commit -m "Publishes new post"
-  git push -u origin master
-else
-  echo "Especifica el mensaje de commit para la publicación"
-fi
+log=$(git log | head -5 | tail -1 | tr -s ' ')
+git checkout master
+cp -R public/* .
+rm -rf public
+git add .
+git commit -m "Publishing: ${log}"
+git push -u origin master
