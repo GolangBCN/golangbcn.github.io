@@ -1,13 +1,17 @@
 #!/bin/bash
 
-git checkout edition
-git pull --rebase
-git checkout master
-git pull --rebase
-git checkout edition -- public
-cp -R public/* .
-git reset HEAD public
-rm -rf public
-git add .
-git commit -m "Publishes new post"
-git push -u origin master
+if [ -n "${1}" ]; then
+  git checkout edition
+  git pull --rebase
+  git checkout master
+  git pull --rebase
+  git checkout edition -- public
+  cp -R public/* .
+  git reset HEAD public
+  rm -rf public
+  git add .
+  git commit -m "Publishes new post"
+  git push -u origin master
+else
+  echo "Especifica el mensaje de commit para la publicación"
+fi

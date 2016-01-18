@@ -1,5 +1,10 @@
 #!/bin/bash
 
-git add .
-git commit -m "${1}"
-git push origin edition
+if [ -n "${1}" ]; then
+  rm -rf public
+  git add .
+  git commit -m "${1}"
+  git push origin edition
+else
+  echo "Especifica el mensaje de commit para el push"
+fi
