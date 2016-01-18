@@ -9,6 +9,7 @@ install:
     - go get github.com/spf13/hugo
 
 build:
+    - bin/setup_theme
     - bin/compile
 
 deploy:
