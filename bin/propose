@@ -1,10 +1,15 @@
 #!/bin/bash
 
-if [ -n "${1}" ]; then
-  rm -rf public
-  git add .
-  git commit -m "${1}"
-  git push origin edition
+if [ "$(whoami)" != "travis" ]; then
+  if [ -n "${1}" ]; then
+    rm -rf public
+    git add .
+    git commit -m "${1}"
+    git push origin edition
+  else
+    echo "Especifica el mensaje de commit para el push"
+    exit 128
 else
-  echo "Especifica el mensaje de commit para el push"
+  echo "Este script no es para usar en CI"
+  exit 1
 fi

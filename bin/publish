@@ -1,12 +1,16 @@
 #!/bin/bash
 
-log=$(git log | head -5 | tail -1 | tr -s ' ')
-whoami
-git config --global user.email "ignasi.fosch+travis@gmail.com"
-git config --global user.name "Travis for GolangBCN"
-git checkout master
-cp -R public/* .
-rm -rf public
-git add .
-git commit -m "Publishing: ${log}"
-git push -u origin master
+if [ "$(whoami)" == "travis" ]; then
+  log=$(git log | head -5 | tail -1 | tr -s ' ')
+  git config --global user.email "ignasi.fosch+travis@gmail.com"
+  git config --global user.name "Travis for GolangBCN"
+  git checkout --orphan master
+  cp -R public/* .
+  rm -rf public bin content static .gitignore .travis.yml config.toml README.md
+  git add .
+  git commit -m "Publishing: ${log}"
+  git push "https://${GH_TOKEN}@github.com/GolangBCN/golangbcn.github.io.git" master -f
+else
+  echo "This script is to be run through CI"
+  exit 1
+fi
