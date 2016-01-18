@@ -9,10 +9,14 @@ if [ "$(whoami)" == "travis" ]; then
   cp -R public/* ${destination}.
   ls -la
   git status
-  git rm -cached bin content static .gitignore .travis.yml config.toml README.md
+  git rm --cached bin content static .gitignore .travis.yml config.toml README.md
+  ls -la
+  git status
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md
+  ls -la
   git status
   git add .
+  ls -la
   git status
   [ "${TRAVIS_PULL_REQUEST}" != "false" ] && log="${log} in ${destination}"
   git commit -m "Publishing: ${log}"
