@@ -10,8 +10,3 @@ install:
 
 script:
     - bin/setup_theme
-    - bin/compile
-
-deploy:
-    - bin/propose
-    - bin/publish
