@@ -1,6 +1,9 @@
 #!/bin/bash
 
 log=$(git log | head -5 | tail -1 | tr -s ' ')
+whoami
+git config --global user.email "ignasi.fosch+travis@gmail.com"
+git config --global user.name "Travis for GolangBCN"
 git checkout master
 cp -R public/* .
 rm -rf public
