@@ -2,15 +2,15 @@ if [ "$(whoami)" == "travis" ]; then
   log=$(git log | head -5 | tail -1 | tr -s ' ')
   git config --global user.email "ignasi.fosch+travis@gmail.com"
   git config --global user.name "Travis for GolangBCN"
-  git checkout --orphan master
   destination="${TRAVIS_PULL_REQUEST}/"
   [ "${TRAVIS_PULL_REQUEST}" == "false" ] && destination=""
+  git checkout --orphan master
   mkdir -p ${destination} >/dev/null 2>&1
   cp -R public/* ${destination}.
   git rm -rf public bin content static .gitignore .travis.yml config.toml README.md
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md
   git add .
-  [ "${TRAVIS_PULL_REQUEST}" == "false" ] && log="${log} in ${destination}"
+  [ "${TRAVIS_PULL_REQUEST}" != "false" ] && log="${log} in ${destination}"
   git commit -m "Publishing: ${log}"
   git push "https://${GH_TOKEN}@github.com/GolangBCN/golangbcn.github.io.git" master -f >/dev/null 2>&1
 else
