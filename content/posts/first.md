@@ -6,6 +6,12 @@ draft: false
 categories:
     - "Blog"
     - "GolangBCN Group"
+tags:
+    - Blog
+    - Hugo
+    - GolangBCN
+    - Web
+    - DevOps
 image: "golangbcn_community.png"
 toc: false
 ---
