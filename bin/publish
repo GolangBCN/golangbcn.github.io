@@ -9,6 +9,7 @@ if [ "$(whoami)" == "travis" ]; then
   cp -R public/* ${destination}.
   git rm -rf public bin content static .gitignore .travis.yml config.toml README.md
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md
+  git status
   git add .
   [ "${TRAVIS_PULL_REQUEST}" != "false" ] && log="${log} in ${destination}"
   git commit -m "Publishing: ${log}"
