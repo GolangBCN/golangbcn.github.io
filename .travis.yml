@@ -10,3 +10,4 @@ install:
 
 script:
     - bin/setup_theme
+    - bin/compile
