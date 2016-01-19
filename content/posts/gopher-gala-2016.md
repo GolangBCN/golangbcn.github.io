@@ -7,9 +7,9 @@ categories:
     - "Gopher Gala"
     - "Events"
 tags:
-    - Code
-    - Hackathon
-    - GolangBCN
+    - code
+    - hackathon
+    - golangbcn
 image: "golangbcn_coding.png"
 toc: false
 ---
