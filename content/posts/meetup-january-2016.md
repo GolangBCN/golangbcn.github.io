@@ -6,6 +6,12 @@ draft: false
 categories:
     - "Meetup"
     - "Events"
+tags:
+    - golangbcn
+    - meetup
+    - code
+    - lint
+    - vim
 image: "golangbcn_talks.png"
 toc: false
 ---
