@@ -1,6 +1,6 @@
 ---
 title: "First 2016's meetup, yay!"
-date: "2016-01-17"
+date: "2016-01-19"
 description: "GolangBCN is hosting the first 2016's meetup"
 draft: false
 categories:
