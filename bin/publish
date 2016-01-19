@@ -4,6 +4,7 @@ if [ "$(whoami)" == "travis" -a "${TRAVIS_PULL_REQUEST}" == false ]; then
   git config --global user.name "Travis for GolangBCN"
   git checkout --orphan master
   cp -R public/* .
+  cp static/images/favicon.ico .
   rm -rf public bin content static .gitignore .travis.yml config.toml README.md themes
   echo "golangbcn.org" > CNAME
   git add .
