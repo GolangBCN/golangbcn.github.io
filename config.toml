@@ -1,4 +1,4 @@
-baseurl = "http://golangbcn.github.io/"
+baseurl = "http://golangbcn.org/"
 contentdir = "content"
 publishdir = "public"
 title = "Gophers in BCN"
