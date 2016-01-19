@@ -1,6 +1,6 @@
 ---
 title: "GolangBCN's a local HQ for Gopher Gala 2016"
-date: "2016-01-18"
+date: "2016-01-19"
 description: "GolangBCN is hosting a local HQ for Gopher Gala this year"
 draft: false
 categories:
