@@ -10,6 +10,7 @@ tags:
     - code
     - hackathon
     - golangbcn
+    - gophergala
 image: "golangbcn_coding.png"
 toc: false
 ---
