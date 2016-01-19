@@ -1,6 +1,6 @@
 ---
 title: "GolangBCN's blog released!"
-date: "2016-01-16"
+date: "2016-01-19"
 description: "GolangBCN is releasing its blog!"
 draft: false
 categories:
@@ -25,7 +25,9 @@ Now, with the will to bring more activity and freshness to our group, we have fi
 
 Might be interesting to mention that the blog is made with [Hugo] on [GitHub Pages].
 So it's a static site, which reduces maintenance tasks to a minimum.
-We have plans to make a couple of improvements, so it would be easy to publish and contribute to it.
+We also use [Travis CI] to help with publishing.
+We have plans to make a couple of improvements, like including some more information on the group.
 
   [Hugo]: https://gohugo.io/ "Hugo"
   [GitHub Pages]: https://pages.github.com/ "GitHub Pages"
+  [Travis CI]: https://travis-ci.org/ "Travis CI"
