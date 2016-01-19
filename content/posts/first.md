@@ -7,11 +7,11 @@ categories:
     - "Blog"
     - "GolangBCN Group"
 tags:
-    - Blog
-    - Hugo
-    - GolangBCN
-    - Web
-    - DevOps
+    - blog
+    - hugo
+    - golangbcn
+    - web
+    - devops
 image: "golangbcn_community.png"
 toc: false
 ---
