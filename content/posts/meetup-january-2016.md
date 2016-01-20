@@ -24,7 +24,7 @@ We're happy to announce we'll be having our first 2016's meetup on January 20th.
 This time we'll host two great talks:
 
 - [Daniel Martí] will talk about *[Interfacer]*, a linter that goes beyond by suggesting interface types, and
-- [Gonzalo Serrano] will enlighten about *Vim and Go*
+- [Gonzalo Serrano] will [enlighten us] about *Vim and Go*
 
 Doesn't that sound awesome?
 We hope you'll enjoy this session.
@@ -34,4 +34,5 @@ We hope you'll enjoy this session.
   [Daniel Martí]: http://mvdan.cc "Daniel Martí"
   [Interfacer]: http://github.com/mvdan/interfacer "Interfacer, an interface suggesting linter"
   [Gonzalo Serrano]: http://gonzaloserrano.io/ "Gonzalo Serrano"
+  [enlighten us]: http://vim-go.gonzaloserrano.io/#/ "Talk about Vim and Go"
 
