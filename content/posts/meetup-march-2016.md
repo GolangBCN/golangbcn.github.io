@@ -27,14 +27,16 @@ We had the second 2016's meetup, this time with a Hangout On Air (recorded) talk
 [The event], held at [Onebox]'s offices, was announced some time ago, but we skipped to publish this article in advance.
 Sorry about that! We'll try to improve on iterating.
 
-This time we'll have two talks:
+This time we had two talks:
 
 - [William Kennedy] talked about performance and productivity when solving problems with code.
 - [Ivan Fraixedes] talked on Go's out of the box provided profiling tools.
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/1/7/4/6/highres_447905958.jpeg" title="William's talk on performance" >}}
 
-You will be able to review the recording we got... Enjoy!
+You will be able to review the recording as soon as we can publish it... Be patient!
+
+{{< figure src="http://photos3.meetupstatic.com/photos/event/1/9/e/b/highres_447906635.jpeg" title="Ivan's talk about profiling out-of-the-box tools" >}}
 
   [The event]: http://www.meetup.com/es-ES/Golang-Barcelona/events/229251540/ "Golang March Meetup"
   [Onebox]: http://www.oneboxtm.com/ "Onebox Ticket Distribution System"
