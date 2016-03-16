@@ -30,7 +30,7 @@ Sorry about that! We'll try to improve on iterating.
 This time we had two talks:
 
 - [William Kennedy] talked about performance and productivity when solving problems with code.
-- [Ivan Fraixedes] talked on Go's out of the box provided profiling tools.
+- [Ivan Fraixedes] talked on [Go's out of the box provided profiling tools].
 
 {{< figure src="http://photos1.meetupstatic.com/photos/event/1/7/4/6/highres_447905958.jpeg" title="William's talk on performance" >}}
 
@@ -43,3 +43,4 @@ You will be able to review the recording as soon as we can publish it... Be pati
   [William Kennedy]: https://twitter.com/goinggodotnet "William Kennedy"
   ['Go In Action']: https://www.manning.com/books/go-in-action "Go In Action"
   [Ivan Fraixedes]: https://twitter.com/ifraixedes "Ivan Fraixedes"
+  [Go's out of the box provided profiling tools]: http://blog.fraixed.es/post/golangbcn-201603-profiling-golang-programs/ "Talk at GolangBCN about Profiling Go Programs"
