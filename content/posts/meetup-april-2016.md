@@ -15,7 +15,7 @@ image: "golangbcn_talks.png"
 toc: false
 ---
 
-Next wednesday, April 20th, we'll have our third 2016's meetup, hosted at [Social Point] (Thank you!), with two talks, one
+Next wednesday, April 20th, we'll have our third 2016's meetup, hosted at [Social Point], with two talks, one
 from [J. Roi Martin] and [Sergi Martínez], and the other from [Social Point]. Looks promising!
 
 <!--more-->
