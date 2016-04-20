@@ -24,10 +24,12 @@ So, this time we'll have two talks:
 
 - *Golang in Social Point, experiences and lessons learnt* by [Social Point] engineers, about their way to Go.
 
-{{< figure src="http://photos1.meetupstatic.com/photos/event/7/7/4/3/highres_449130531.jpeg" title="Gonzalo talking about Social Point's experience with Go" >}}
+{{< figure src="http://photos1.meetupstatic.com/photos/event/7/7/4/3/highres_449130531.jpeg" title="Gonzalo Serrano talking about Social Point's experience with Go" >}}
 
 - *All your queue are belong to us*, about [rpcmq](https://github.com/jroimartin/rpcmq), with [godan](https://github.com/zlowram/godan-dist)
   as a use case, by [J. Roi Martin] and [Sergi Martínez].
+
+{{< figure src="http://photos2.meetupstatic.com/photos/event/7/a/a/c/highres_449131404.jpeg" title="Roi Martín introducing rpcmq" >}}
 
 Let's thank [Social Point] again for supporting this event. Let's see there!
 
