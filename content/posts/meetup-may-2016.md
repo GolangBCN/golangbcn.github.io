@@ -16,14 +16,20 @@ image: "golangbcn_talks.png"
 toc: false
 ---
 
-Winter has leaved us, and spring is here with not only two, but three!!!!!!!!
+Winter finished, and spring arrived with, not only two, but three!!!!!!!!
 Awesome great talks delivered by [Xavi], [Enric] and [Ivan] in this great [event].
 
 <!--more-->
 
+{{< figure src="http://photos3.meetupstatic.com/photos/event/4/9/d/e/highres_450378910.jpeg" title="Xavi Solé explaining about his love for Go and Docker" >}}
+
 The [event], held at [Infojobs]'s offices, started with [Xavi]'s talk about his life and love for Go and how these feelings merged with Docker so well.
 
-{{< figure src="http://photos3.meetupstatic.com/photos/event/4/9/d/e/highres_450378910.jpeg" title="Xavi Solé explaining about his love for Go and Docker" >}}
+{{< figure src="http://photos3.meetupstatic.com/photos/event/4/a/9/2/highres_450379090.jpeg" title="Docker and Go, two great environments really related!" >}}
+
+The second talk was given by [Enric], who explained the weirdest things he found while learning and using Go... quite a few!
+
+{{< figure src="http://photos4.meetupstatic.com/photos/event/4/c/9/1/highres_450379601.jpeg" title="Strange ways of using Go by Enric Lluelles" >}}
 
 ... To be continued
 
