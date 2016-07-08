@@ -27,7 +27,7 @@ Remember to RSVP at the [event meetup page]... Keep reading for details on accep
 So far, we received and confirmed these talks:
 
   - [Gustavo Chaín] on [sqlhooks], a library to instrument your application DB queries for log and measurement.
-  - [Xavi Solé] on [Dog], a command line tool to execute tasks.
+  - [Xavi Soler] on [Dog], a command line tool to execute tasks.
 
 Stay tuned, since we'll be updating this list.
 
@@ -36,5 +36,5 @@ Stay tuned, since we'll be updating this list.
   [event meetup page]: http://www.meetup.com/es-ES/Golang-Barcelona/events/232303170/ "July event meetup page"
   [Gustavo Chaín]: https://twitter.com/gchaincl "Gustavo Chaín"
   [sqlhooks]: https://github.com/gchaincl/sqlhooks "sqlhooks"
-  [Xavi Solé]: https://twitter.com/xavi_xsb "Xavi Solé"
+  [Xavi Soler]: https://twitter.com/xavi_xsb "Xavi Soler"
   [Dog]: https://github.com/dogtools/dog "Dog"
