@@ -28,6 +28,8 @@ So far, we received and confirmed these talks:
 
   - [Gustavo Chaín] on [sqlhooks], a library to instrument your application DB queries for log and measurement.
   - [Xavi Soler] on [Dog], a command line tool to execute tasks.
+  - [Gonzalo Serrano] on [gRPC], is a high performant RPC framework by Google which uses protocol buffers to define the message types and uses HTTP2 behind the scenes. 
+  - [Albert Puigsech] on [seekret], a tool for preventing secret leakage on GitHub (and others).
 
 Stay tuned, since we'll be updating this list.
 
@@ -38,3 +40,7 @@ Stay tuned, since we'll be updating this list.
   [sqlhooks]: https://github.com/gchaincl/sqlhooks "sqlhooks"
   [Xavi Soler]: https://twitter.com/xavi_xsb "Xavi Soler"
   [Dog]: https://github.com/dogtools/dog "Dog"
+  [Gonzalo Serrano]: https://twitter.com/gonzaloserrano
+  [gRPC]: http://www.grpc.io/docs/tutorials/basic/go.html
+  [Albert Puigsech]: https://twitter.com/apuigsech
+  [seekret]: https://github.com/apuigsech/seekret
