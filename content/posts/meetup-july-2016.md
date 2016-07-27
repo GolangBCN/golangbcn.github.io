@@ -31,6 +31,8 @@ So far, we received and confirmed these talks:
   - [Gonzalo Serrano] on [gRPC], is a high performant RPC framework by Google which uses protocol buffers to define the message types and uses HTTP2 behind the scenes. 
   - [Albert Puigsech] on [seekret], a tool for preventing secret leakage on GitHub (and others).
   - [Aitor Guevara] will show up the [New Relic Go agent] in action! 
+  - [Adrià Massanet] will talk about GoPad.
+  - [Ivan Danyliuk] will give a quick overview on Go 1.7 features and changes.
 
 Stay tuned, since we'll be updating this list.
 
@@ -47,3 +49,5 @@ Stay tuned, since we'll be updating this list.
   [seekret]: https://github.com/apuigsech/seekret
   [Aitor Guevara]: https://twitter.com/aitorciki
   [New Relic Go agent]: https://newrelic.com/golang
+  [Adrià Massanet]: https://github.com/adriamb
+  [Ivan Danyliuk]: https://twitter.com/idanyliuk
