@@ -1,0 +1,16 @@
+language: go
+sudo: false
+branches:
+    only:
+        - edition
+
+go:
+    - 1.5.2
+
+install:
+    - go get github.com/spf13/hugo
+
+script:
+    - bin/setup_theme
+    - bin/compile
+    - bin/publish

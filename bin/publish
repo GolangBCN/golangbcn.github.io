@@ -1,0 +1,17 @@
+if [ "$(whoami)" == "travis" -a "${TRAVIS_PULL_REQUEST}" == false ]; then
+  log=$(git log | head -5 | tail -1 | tr -s ' ')
+  git config --global user.email "ignasi.fosch+travis@gmail.com"
+  git config --global user.name "Travis for GolangBCN"
+  git checkout --orphan master
+  cp -R public/* .
+  cp static/images/favicon.ico .
+  rm -rf public bin content static .gitignore .travis.yml config.toml README.md themes
+  echo "golangbcn.org" > CNAME
+  git add .
+  git rm -rf bin content static .gitignore .travis.yml config.toml README.md themes
+  git commit -m "Publishing: ${log}"
+  git push "https://${GH_TOKEN}@github.com/GolangBCN/golangbcn.github.io.git" master -f >/dev/null 2>&1
+else
+  echo "This script is to be run through CI"
+  exit 1
+fi
