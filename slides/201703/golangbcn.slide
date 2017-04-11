@@ -1,0 +1,74 @@
+Golang BCN
+'17 March Meetup
+
+* Wifi
+
+ESSID: ExoClick
+pwd: freedomNouveauAlmendraRagazza
+
+* Who are we
+
+The Golang BCN meetup group is composed of *494* *gophers*
+
+And 5 organizers:
+
+- Gonzalo Serrano [[http://twitter.com/gonzaloserrano][@gonzaloserrano]]
+- Gustavo Chaín [[http://twitter.com/gchaincl][@gchaincl]]
+- Ignasi Fosch [[http://twitter.com/ifosch][@ifosch]]
+- Ivan Daniluk [[http://twitter.com/idanyliuk][@idanyliuk]]
+- Marc Navarro [[http://twitter.com/toffen][@toffen]]
+
+.image golangbcn/imgs/staff.png
+
+* Share memory by communicating
+
+.link https://go-proverbs.github.io/ Go proverb #1
+
+How to:
+
+- mail: [[mailto:golang-bcn-organizers@googlegroups.com][golang-bcn-organizers@googlegroups.com]]
+- slack: #lang-go @ [[http://slack.bcneng.net]] - *135* *members*
+- web: [[http://golangbcn.org]]
+- twitter: [[https://twitter.com/GolangBCN][@GolangBCN]]
+- here!
+
+* Where are we
+
+**ExoClick* - Innovative digital ad network
+Now in its 10th year, ExoClick is a self-service ad platform that provides advertisers with access to a global network of desktop & mobile publisher sites, serving +165 billion ad impressions each month.
+
+**EXADS* - State-of-the-art ad serving platform
+As a licensed SaaS solution, EXADS powers large networks of sites, affiliate programs and high traffic websites. EXADS builds the technology that drives ExoClick's world leading ad network platform.
+
+**AdSecure* - Intelligent ad safety and security technology
+Using advanced technology, AdSecure scans and detects both compliance and malware threats on ad serving and publishing platforms.
+
+* Gophers at ExoClick
+
+- Sergio Moya [[http://twitter.com/soyelsergillo][@soyelsergillo]] 
+- Ferran Orriols [[http://twitter.com/ferranorriols][@ferranorriols]]
+- Juan Hernandez [[http://twitter.com/jhvaras][@jhvaras]]
+- Marc Cobos [[http://twitter.com/coboshm][@coboshm]]
+- Pierre Brouca [[http://twitter.com/broucz][@broucz]]
+- Oscar Campos [[http://twitter.com/damnwidget][@damnwidget]]
+
+.image golangbcn/imgs/exo.jpg
+
+* Agenda
+
+*distributed* *consensus* *with* *Raft*
+
+- building a scalable application in Go using the Raft consensus algorithm
+- by Sergey Kolodyazhnyy (Magento) - [[https://twitter.com/skolodyazhnyy][@skolodyazhnyy]]
+
+*piladb*, *a* *little* *database* *written* *in* *Go* *from* *scratch*
+
+- intro to piladb and dig deep into its internals
+- by Fernando Álvarez (BeBanjo, Madrid) - [[https://twitter.com/fern4lvarez][@fern4lvarez]]
+
+*database/sql* *with* *context*
+
+- state of context package support in the features of the database/sql package in Go 1.8
+- by Ivan Daniluk - [[http://twitter.com/idanyliuk][@idanyliuk]]
+
+*networking* *and* *snacks*
