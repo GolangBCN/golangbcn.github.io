@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communication on Gophers in BCN</title>
+    <link>http://golangbcn.org/tags/communication/</link>
+    <description>Recent content in communication on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing GoWayFest 4</title>
+      <link>http://golangbcn.org/posts/gowayfest-4.0-announcement/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/gowayfest-4.0-announcement/</guid>
+      <description>GoWayFest 4.0 - the 4th edition of the conference fully dedicated to Go - will be held online on July 11-12 and will bring together gophers and Go-fans from all over the globe.
+This year’s speakers team is full of Go-stars:
+ Dave Cheney will share a secret how the names we give to things can affect the maintainability of the software; Ellen Körbes will help you to speed up your “from code change to process running” benchmark for Go applications; Iskander Sharipov with several topics about implementation an efficient VM in GO; Mat Ryer, Andrii Soldatenko and other speakers on the website.</description>
+    </item>
+    
+    <item>
+      <title>GolangBCN in 2017: January meetup and group update</title>
+      <link>http://golangbcn.org/posts/meetup-january-2017/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-january-2017/</guid>
+      <description>&lt;p&gt;We had a very good January. We, the organizers of GolangBCN, met to discuss the state of the project and how to improve it, and we had an awesome meetup with Francesc Campoy and Ivan Daniluk at Typeform&amp;rsquo;s office&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Come to chat with other local gophers on Telegram</title>
+      <link>http://golangbcn.org/posts/telegram-group/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/telegram-group/</guid>
+      <description>Recently we create a Telegram supergroup for all the Gophers&amp;hellip; Come join us</description>
+    </item>
+    
+  </channel>
+</rss>

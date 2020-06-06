@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>404 Page not found - Gophers in BCN</title>
+    <meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com"  crossorigin>
+<link rel="dns-prefetch preconnect" href="https://use.fontawesome.com"  crossorigin>
+<meta name="theme-color" content="#263238">
+
+<meta name="generator" content="Hugo 0.73.0-DEV" />
+
+<link rel="apple-touch-icon" href="http://golangbcn.org/images/logo.png">
+
+
+
+
+    
+
+    <link rel="canonical" href="http://golangbcn.org/404.html">
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" crossorigin="anonymous">
+    <style>
+
+  
+html {
+  font-size: 18px;
+  background-color: rgba(236, 239, 241, 0.5); }
+
+@media (max-width: 768px) {
+  html {
+    font-size: 15px; } }
+
+body {
+  color: #333;
+  font-family: 'Roboto Slab','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,Meiryo,sans-serif;
+  font-feature-settings: "palt";
+  font-size: inherit;
+  line-height: 1rem;
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1rem;
+  margin: 0; }
+
+hr {
+  border: 0;
+  border-top: 1px dashed #cfd8dc;
+  margin: 1rem 0; }
+
+p {
+  margin: 0;
+  line-height: 1rem; }
+
+a {
+  color: #2196f3;
+  text-decoration: none;
+  transition-duration: .3s; }
+
+ul, ol {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto; }
+
+th, td {
+  font-size: .8rem;
+  padding: .5rem; }
+
+tr {
+  border-bottom: 1px dashed #ddd; }
+
+/* Layouts */
+main, aside {
+  display: block; }
+
+main {
+  padding: 1rem 0 3rem 0; }
+
+.l-container {
+  position: relative;
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 0 1rem; }
+  .l-container.thin {
+    max-width: 44rem; }
+
+.l-header {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+  padding: 1rem 0;
+  text-align: center; }
+  .l-header .description {
+    margin-top: .5rem;
+    font-size: .8rem; }
+
+.l-footer {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+  font-size: .6rem;
+  font-weight: 700;
+  padding: 1rem 0; }
+
+.l-sidebar {
+  margin: -1rem 0; }
+
+@media (max-width: 768px) {
+  .l-sidebar {
+    margin-top: 4rem; } }
+
+.mrow {
+  margin: 0 -1rem;
+  overflow: hidden; }
+
+.mcol {
+  box-sizing: border-box;
+  float: left;
+  padding: 0 1rem; }
+
+.c6 {
+  width: 50%; }
+
+.c4 {
+  width: 33.26323833%; }
+
+.c8 {
+  width: 66.66666%; }
+
+@media (max-width: 768px) {
+  .mcol {
+    width: 100%;
+    float: none; } }
+
+.logo a {
+  font-size: 1.4rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  color: #333; }
+
+.articles {
+  margin: -1rem 0;
+  margin-bottom: 1rem; }
+
+.articles.sm {
+  margin: -.5rem 0;
+  margin-bottom: 0; }
+
+article {
+  border-radius: 4px;
+  overflow: hidden; }
+
+article.li {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+  height: 20rem;
+  overflow: hidden;
+  margin: 1rem 0; }
+
+article.li > a {
+  display: block;
+  color: #333; }
+
+article.li .inner {
+  padding: 1rem; }
+
+article.li .thumb {
+  height: 8rem; }
+
+article.li .title {
+  color: #333;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  margin-bottom: .5rem; }
+
+article.li .summary {
+  font-size: .8rem;
+  height: 6rem;
+  overflow: hidden;
+  margin-top: 1rem; }
+
+article.li .summary::after {
+  content: '...'; }
+
+article.lism {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+  margin: .5rem 0; }
+
+article.lism::after {
+  content: '';
+  display: block;
+  clear: both; }
+
+article.lism > a {
+  display: block;
+  color: #333; }
+
+article.lism .inner {
+  display: table-cell;
+  vertical-align: middle;
+  height: 5rem;
+  padding: 0 .75rem; }
+
+article.lism .thumb {
+  width: 5rem;
+  height: 5rem;
+  float: left; }
+
+article.lism .title {
+  font-weight: 700;
+  font-size: .8rem;
+  margin-bottom: .25rem; }
+
+article.sn {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1rem; }
+
+article.sn .thumb {
+  height: 20rem; }
+
+@media (max-width: 768px) {
+  article.sn .thumb {
+    height: 10rem; } }
+
+article.sn > .article-header,
+article.sn > .article-body,
+article.sn .article-footer {
+  padding: 2rem; }
+
+article.sn > .article-body {
+  padding: 0 2rem; }
+
+@media (max-width: 768px) {
+  article.sn > .article-header,
+  article.sn > .article-body,
+  article.sn .article-footer {
+    padding: 1rem; }
+  article.sn > .article-body {
+    padding: 0 1rem; } }
+
+article.sn > .article-header .title {
+  font-size: 1.8rem;
+  line-height: 2rem;
+  margin-bottom: .5rem; }
+
+@media (max-width: 768px) {
+  article.sn > .article-header .title {
+    font-size: 1.4rem;
+    line-height: 1.5rem; } }
+
+article.sn > .article-header .facts {
+  margin-bottom: 1rem; }
+
+article.sn > .article-body {
+  margin-bottom: 1.5rem; }
+
+article.sn > .article-body h2 {
+  border-bottom: .25rem solid #333;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  margin: 1.5rem 0;
+  padding: .5rem 0; }
+
+article.sn > .article-body h3 {
+  border-left: .5rem solid #333;
+  line-height: 1.5rem;
+  margin: 1.5rem 0;
+  padding: .125rem .5rem; }
+
+article.sn > .article-body ul,
+article.sn > .article-body ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem; }
+
+article.sn > .article-body li {
+  padding-bottom: .5rem;
+  line-height: 1.5rem; }
+
+article.sn > .article-body li:last-child {
+  padding-bottom: 0; }
+
+article.sn > .article-body p {
+  margin: 1rem 0;
+  line-height: 1.5rem; }
+
+article.sn > .article-body strong,
+article.sn > .article-body em {
+  font-style: normal;
+  font-weight: 700; }
+
+article.sn > .article-body strong {
+  box-shadow: 0 -.5rem 0 0 #ffc107 inset; }
+
+article.sn > .article-body em {
+  color: #8bc34a; }
+
+article.sn > .article-body code,
+article.sn > .article-body pre {
+  font-family: Menlo, Consolas, monospace;
+  font-size: .7rem; }
+
+article.sn > .article-body pre {
+  background-color: #333;
+  color: #fff;
+  line-height: 1rem;
+  margin: 1.5rem -2rem;
+  overflow: auto; }
+
+@media (max-width: 768px) {
+  article.sn > .article-body pre {
+    margin: 1.5rem -1rem; } }
+
+article.sn > .article-body pre > code {
+  display: block;
+  padding: 1rem 2rem; }
+
+@media (max-width: 768px) {
+  article.sn > .article-body pre > code {
+    padding: 1rem; } }
+
+article.sn > .article-body p code {
+  background-color: #eceff1;
+  color: #333;
+  border-radius: 4px;
+  margin: 0 .25rem;
+  padding: .375rem;
+  white-space: nowrap; }
+
+article.sn > .article-body blockquote {
+  position: relative;
+  border-left: .25rem solid #333;
+  font-size: .8rem;
+  padding: .125rem 1rem;
+  margin: 1.5rem 0; }
+
+@media (max-width: 768px) {
+  article.sn > .article-body blockquote {
+    font-size: 1rem; } }
+
+article.sn > .article-body blockquote p {
+  margin: .5rem 0;
+  line-height: 1rem; }
+
+article.sn > .article-body figure {
+  margin: 1.5rem 0; }
+
+article.sn > .article-body img,
+article.sn > .article-body figure img,
+article.sn > .article-body figure amp-img {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  max-width: 100%; }
+
+article.sn > .article-body figcaption {
+  color: #cfd8dc;
+  font-size: .8rem;
+  font-weight: 700;
+  margin-top: .5rem; }
+
+.facts li {
+  display: inline;
+  font-size: .8rem;
+  margin-right: 1rem; }
+
+.facts i {
+  color: #cfd8dc;
+  margin-right: .5em; }
+
+.facts.sm li {
+  font-size: .7rem; }
+
+section.sidebar {
+  margin: 2rem 0; }
+  section.sidebar > header {
+    font-size: .8rem;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-align: center;
+    margin: 1.5rem 0; }
+
+section.footer {
+  margin: 1rem 0; }
+  section.footer > header {
+    font-size: .8rem;
+    margin: .5rem 0; }
+    section.footer > header::before {
+      content: "- "; }
+    section.footer > header a {
+      font-weight: 700;
+      color: #333;
+      text-decoration: underline; }
+
+.terms {
+  margin: -.25rem; }
+  .terms li {
+    display: inline-block; }
+  .terms a {
+    display: block;
+    float: left;
+    background-color: #333;
+    border-radius: 4px;
+    color: #fff;
+    font-size: .7rem;
+    margin: .25rem;
+    padding: 0 .75rem;
+    line-height: 1.75rem; }
+
+.paging {
+  text-align: center;
+  padding: 1rem 0; }
+  .paging a {
+    display: inline-block;
+    background-color: #fff;
+    box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    color: #333;
+    padding: 0 1rem;
+    line-height: 3rem; }
+
+.page-title {
+  text-align: center;
+  margin: 1rem 0; }
+  .page-title::after {
+    content: '';
+    display: block;
+    border-bottom: .25rem solid #333;
+    width: 3rem;
+    margin: 1.5rem auto; }
+  .page-title > .title {
+    font-size: 1.2rem;
+    line-height: 1.5rem; }
+
+.share {
+  padding: 0; }
+  .share a {
+    display: inline-block;
+    box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px rgba(63, 63, 68, 0.1), 0 1px 2px rgba(0, 0, 0, 0.05);
+    min-width: 1rem;
+    height: 2rem;
+    border-radius: 4px;
+    color: #333;
+    font-size: .8rem;
+    font-weight: 700;
+    line-height: 2rem;
+    text-align: center;
+    padding: 0 .5rem; }
+
+.adj article.lism {
+  margin-bottom: 1rem; }
+
+.adj header {
+  font-weight: 700;
+  font-size: .8rem; }
+
+.toc {
+  padding: 0 2rem;
+  margin: 1rem 0; }
+  .toc nav > ul {
+    background-color: #eceff1;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: .8rem;
+    padding: .5rem 1rem;
+    word-break: break-all;
+    list-style: none; }
+  .toc ul {
+    padding: 0; }
+    .toc ul ul {
+      padding-left: 1rem; }
+      .toc ul ul > li {
+        font-weight: 700;
+        margin: .5rem 0;
+        list-style-type: decimal; }
+      .toc ul ul ul {
+        padding-left: 1rem; }
+        .toc ul ul ul > li {
+          list-style-type: disc;
+          font-weight: 500; }
+  .toc li {
+    color: #90a4ae; }
+
+@media (max-width: 768px) {
+  .toc {
+    padding: 0 1rem; } }
+
+
+
+
+.thumb {
+  background-image: url("http://golangbcn.org/images/default.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+    </style>
+
+  </head>
+  <body>
+    <header class="l-header">
+        <h1 class="logo">
+          <a href="http://golangbcn.org/">Gophers in BCN</a>
+        </h1>
+        
+    </header>
+
+    <main>
+      <div class="l-container">
+        <div class="mrow">
+        <div class="mcol c8">
+          
+<header class="page-header">
+  <h1>404 Page not found</h1>
+</header>
+
+        </div>
+        <div class="mcol c4">
+          <aside class="l-sidebar">
+            
+
+            <section class="sidebar">
+  <header>LATESTS</header>
+  <div class="articles sm">
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/gowayfest-4.0-announcement/">
+    <div class="thumb thumb-2508b76640bd2e1fb2abd5797091d3e4"></div>
+
+    <div class="inner">
+      <div class="title">Announcing GoWayFest 4</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="6007-06-06T00:00:00JST">Jun 6, 2020</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-january-2017/">
+    <div class="thumb thumb-a0038aa053b3919be5b0b4eac8c34b0f"></div>
+
+    <div class="inner">
+      <div class="title">GolangBCN in 2017: January meetup and group update</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="2007-05-02T00:00:00JST">May 2, 2017</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/telegram-group/">
+    <div class="thumb thumb-a03b1ab8332ac88dec12ef9bbb081f28"></div>
+
+    <div class="inner">
+      <div class="title">Come to chat with other local gophers on Telegram</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="7007-07-07T00:00:00JST">Jul 7, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-july-2016/">
+    <div class="thumb thumb-a626b5698faafdaa6e5bb6c9a2be8852"></div>
+
+    <div class="inner">
+      <div class="title">Have you ever seen lightnings in July?</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="7007-07-07T00:00:00JST">Jul 7, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/dot-go-2016/">
+    <div class="thumb thumb-e49eb043398e7eb13a85fd923ae0cd7f"></div>
+
+    <div class="inner">
+      <div class="title">What about the best European conference about Go?</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="7007-07-07T00:00:00JST">Jul 7, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-may-2016/">
+    <div class="thumb thumb-912cf95fbddb184c862ebb4634f6939f"></div>
+
+    <div class="inner">
+      <div class="title">A hammer and a duck in a container</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="25007-05-25T00:00:00JST">May 25, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-april-2016/">
+    <div class="thumb thumb-8ae768304f8db37af27594892bde8583"></div>
+
+    <div class="inner">
+      <div class="title">Let&#39;s keep up the pace</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="16007-04-16T00:00:00JST">Apr 16, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-march-2016/">
+    <div class="thumb thumb-7a7fbcd9a6ce305c1c595927df7ef3ae"></div>
+
+    <div class="inner">
+      <div class="title">March meetup is here...</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="16007-03-16T00:00:00JST">Mar 16, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/meetup-january-2016/">
+    <div class="thumb thumb-6d52da9a4e275406affa4c7f1dea5f97"></div>
+
+    <div class="inner">
+      <div class="title">First 2016&#39;s meetup, yay!</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="19007-01-19T00:00:00JST">Jan 19, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+    <article class="lism">
+  <a href="http://golangbcn.org/posts/gopher-gala-2016/">
+    <div class="thumb thumb-384121ac50a0a7ec48094793ba590d8b"></div>
+
+    <div class="inner">
+      <div class="title">GolangBCN&#39;s a local HQ for Gopher Gala 2016</div>
+
+      <ul class="facts sm">
+        <li><i class="fas fa-calendar" aria-hidden="true"></i><time datetime="19007-01-19T00:00:00JST">Jan 19, 2016</time></li>
+        
+        <li><i class="fas fa-bookmark" aria-hidden="true"></i>POSTS</li>
+        
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    
+  </div>
+</section>
+
+            
+<section class="sidebar">
+  <header>CATEGORIES</header>
+  <ul class="terms">
+    
+    <li><a href="http://golangbcn.org/categories/events">events <span class="count">(9)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/meetup">meetup <span class="count">(6)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/blog">blog <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/community">community <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/conferences">conferences <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/golangbcn-group">golangbcn-group <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/categories/gopher-gala">gopher-gala <span class="count">(1)</span></a></li>
+    
+  </ul>
+</section>
+
+
+
+            
+<section class="sidebar">
+  <header>TAGS</header>
+  <ul class="terms">
+    
+    <li><a href="http://golangbcn.org/tags/golangbcn">golangbcn <span class="count">(11)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/meetup">meetup <span class="count">(6)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/code">code <span class="count">(3)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/communication">communication <span class="count">(3)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/tools">tools <span class="count">(3)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/blog">blog <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/devops">devops <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/docker">docker <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/dotgo">dotgo <span class="count">(1)</span></a></li>
+    
+    <li><a href="http://golangbcn.org/tags/experience">experience <span class="count">(1)</span></a></li>
+    
+  </ul>
+</section>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="l-container">
+        <p><a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'><img alt='Creative Commons License' style='border-width:0; width:44; height:16;' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></a><br />This work is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+    
+  </body>
+</html>
+

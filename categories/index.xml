@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Gophers in BCN</title>
+    <link>http://golangbcn.org/categories/</link>
+    <description>Recent content in Categories on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Events</title>
+      <link>http://golangbcn.org/categories/events/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>http://golangbcn.org/categories/meetup/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>http://golangbcn.org/categories/community/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>http://golangbcn.org/categories/conferences/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://golangbcn.org/categories/blog/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GolangBCN Group</title>
+      <link>http://golangbcn.org/categories/golangbcn-group/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/golangbcn-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gopher Gala</title>
+      <link>http://golangbcn.org/categories/gopher-gala/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/categories/gopher-gala/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gophers in BCN</title>
+    <link>http://golangbcn.org/posts/</link>
+    <description>Recent content in Posts on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing GoWayFest 4</title>
+      <link>http://golangbcn.org/posts/gowayfest-4.0-announcement/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/gowayfest-4.0-announcement/</guid>
+      <description>GoWayFest 4.0 - the 4th edition of the conference fully dedicated to Go - will be held online on July 11-12 and will bring together gophers and Go-fans from all over the globe.
+This year’s speakers team is full of Go-stars:
+ Dave Cheney will share a secret how the names we give to things can affect the maintainability of the software; Ellen Körbes will help you to speed up your “from code change to process running” benchmark for Go applications; Iskander Sharipov with several topics about implementation an efficient VM in GO; Mat Ryer, Andrii Soldatenko and other speakers on the website.</description>
+    </item>
+    
+    <item>
+      <title>GolangBCN in 2017: January meetup and group update</title>
+      <link>http://golangbcn.org/posts/meetup-january-2017/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-january-2017/</guid>
+      <description>&lt;p&gt;We had a very good January. We, the organizers of GolangBCN, met to discuss the state of the project and how to improve it, and we had an awesome meetup with Francesc Campoy and Ivan Daniluk at Typeform&amp;rsquo;s office&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Come to chat with other local gophers on Telegram</title>
+      <link>http://golangbcn.org/posts/telegram-group/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/telegram-group/</guid>
+      <description>Recently we create a Telegram supergroup for all the Gophers&amp;hellip; Come join us</description>
+    </item>
+    
+    <item>
+      <title>Have you ever seen lightnings in July?</title>
+      <link>http://golangbcn.org/posts/meetup-july-2016/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-july-2016/</guid>
+      <description>&lt;p&gt;This July, we&amp;rsquo;ll be holding some lightning talks in our meetup, hosted at &lt;a href=&#34;http://socialpoint.com&#34; title=&#34;Social Point&#34;&gt;Social Point&lt;/a&gt;&amp;hellip; Thank you!
+The lightning talks will be 5 minutes long, no questions, no discussion, quick and fast.
+&lt;a href=&#34;https://golangbcn.typeform.com/to/PCKIdF&#34; title=&#34;Lightning talks proposal form&#34;&gt;Present&lt;/a&gt; your project, idea, preferred tool in our lightning talks session.
+We&amp;rsquo;ll contact you back for the details.
+Remember to RSVP at the &lt;a href=&#34;http://www.meetup.com/es-ES/Golang-Barcelona/events/232303170/&#34; title=&#34;July event meetup page&#34;&gt;event meetup page&lt;/a&gt;&amp;hellip; Keep reading for details on accepted lightning talks&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What about the best European conference about Go?</title>
+      <link>http://golangbcn.org/posts/dot-go-2016/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/dot-go-2016/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://dotgo.eu&#34; title=&#34;dotGo&#34;&gt;dotGo&lt;/a&gt; is the most important european Go conference.
+This happens yearly in one of the very beautiful theaters in the very beautiful city of Paris.
+&lt;a href=&#34;http://dotgo.eu&#34; title=&#34;dotGo&#34;&gt;dotGo&lt;/a&gt; is quite meaningful for our community, since in its first edition is where the group got created.
+Keep reading to find the discount&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A hammer and a duck in a container</title>
+      <link>http://golangbcn.org/posts/meetup-may-2016/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-may-2016/</guid>
+      <description>&lt;p&gt;Winter finished, and spring arrived with, not only two, but three!!!!!!!!
+Awesome great talks delivered by &lt;a href=&#34;https://twitter.com/xavi_xsb&#34; title=&#34;Xavi Solé&#34;&gt;Xavi&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/enriclluelles&#34; title=&#34;Enric Lluelles&#34;&gt;Enric&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/idanyliuk&#34; title=&#34;Ivan Danyliuk&#34;&gt;Ivan&lt;/a&gt; in this great &lt;a href=&#34;http://www.meetup.com/es-ES/Golang-Barcelona/events/230918952/&#34; title=&#34;Golang March Meetup&#34;&gt;event&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s keep up the pace</title>
+      <link>http://golangbcn.org/posts/meetup-april-2016/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-april-2016/</guid>
+      <description>&lt;p&gt;Next wednesday, April 20th, we&amp;rsquo;ll have our third 2016&amp;rsquo;s meetup, hosted at &lt;a href=&#34;http://www.socialpoint.com&#34; title=&#34;Social Point&#34;&gt;Social Point&lt;/a&gt;, with two talks, one
+from &lt;a href=&#34;http://www.github.com/jroimartin&#34; title=&#34;J. Roi Martin&#34;&gt;J. Roi Martin&lt;/a&gt; and &lt;a href=&#34;https://github.com/zlowram&#34; title=&#34;Sergi Martínez&#34;&gt;Sergi Martínez&lt;/a&gt;, and the other from &lt;a href=&#34;http://www.socialpoint.com&#34; title=&#34;Social Point&#34;&gt;Social Point&lt;/a&gt;. Looks promising!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>March meetup is here...</title>
+      <link>http://golangbcn.org/posts/meetup-march-2016/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-march-2016/</guid>
+      <description>&lt;p&gt;We had the second 2016&amp;rsquo;s meetup, this time with a Hangout On Air (recorded) talk by &lt;a href=&#34;https://twitter.com/goinggodotnet&#34; title=&#34;William Kennedy&#34;&gt;William Kennedy&lt;/a&gt;,
+&lt;a href=&#34;https://www.manning.com/books/go-in-action&#34; title=&#34;Go In Action&#34;&gt;&amp;lsquo;Go In Action&amp;rsquo;&lt;/a&gt; co-author, and &lt;a href=&#34;https://twitter.com/ifraixedes&#34; title=&#34;Ivan Fraixedes&#34;&gt;Ivan Fraixedes&lt;/a&gt;, fellow of this, and other, meetups :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First 2016&#39;s meetup, yay!</title>
+      <link>http://golangbcn.org/posts/meetup-january-2016/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-january-2016/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re happy to announce we&amp;rsquo;ll be having our first 2016&amp;rsquo;s meetup on January 20th.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GolangBCN&#39;s a local HQ for Gopher Gala 2016</title>
+      <link>http://golangbcn.org/posts/gopher-gala-2016/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/gopher-gala-2016/</guid>
+      <description>Gopher Gala is a distributed global hackathon based on Go, happening next week. The event consists in a prized hackathon happening from January 23rd at 2:00 to January 25th 2:00, in which coders from all the globe will be hacking on chosen projects.
+Since the organizers behind GolangBCN had been long time discussing about taking part in some event involving practical programming - let&amp;rsquo;s say some action beyond such cool talks, this looked like the perfect excuse to measure our community&amp;rsquo;s taste for fun.</description>
+    </item>
+    
+    <item>
+      <title>GolangBCN&#39;s blog released!</title>
+      <link>http://golangbcn.org/posts/first/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/first/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re really happy to announce this blog&amp;rsquo;s release, for enhancement of GolangBCN&amp;rsquo;s group communication.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

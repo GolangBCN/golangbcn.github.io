@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gophers in BCN</title>
+    <link>http://golangbcn.org/tags/</link>
+    <description>Recent content in Tags on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>communication</title>
+      <link>http://golangbcn.org/tags/communication/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golangbcn</title>
+      <link>http://golangbcn.org/tags/golangbcn/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/golangbcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raffle</title>
+      <link>http://golangbcn.org/tags/raffle/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/raffle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup</title>
+      <link>http://golangbcn.org/tags/meetup/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotGo</title>
+      <link>http://golangbcn.org/tags/dotgo/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/dotgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lightning talks</title>
+      <link>http://golangbcn.org/tags/lightning-talks/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/lightning-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>http://golangbcn.org/tags/projects/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telegram</title>
+      <link>http://golangbcn.org/tags/telegram/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>http://golangbcn.org/tags/tools/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://golangbcn.org/tags/docker/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gotchas</title>
+      <link>http://golangbcn.org/tags/gotchas/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/gotchas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience</title>
+      <link>http://golangbcn.org/tags/experience/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queues</title>
+      <link>http://golangbcn.org/tags/queues/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/queues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>http://golangbcn.org/tags/code/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance</title>
+      <link>http://golangbcn.org/tags/performance/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>http://golangbcn.org/tags/productivity/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profiling</title>
+      <link>http://golangbcn.org/tags/profiling/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://golangbcn.org/tags/blog/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>http://golangbcn.org/tags/devops/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gophergala</title>
+      <link>http://golangbcn.org/tags/gophergala/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/gophergala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>http://golangbcn.org/tags/hackathon/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://golangbcn.org/tags/hugo/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lint</title>
+      <link>http://golangbcn.org/tags/lint/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/lint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>http://golangbcn.org/tags/vim/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://golangbcn.org/tags/web/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

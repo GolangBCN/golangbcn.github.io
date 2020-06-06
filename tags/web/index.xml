@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on Gophers in BCN</title>
+    <link>http://golangbcn.org/tags/web/</link>
+    <description>Recent content in web on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GolangBCN&#39;s blog released!</title>
+      <link>http://golangbcn.org/posts/first/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/first/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re really happy to announce this blog&amp;rsquo;s release, for enhancement of GolangBCN&amp;rsquo;s group communication.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

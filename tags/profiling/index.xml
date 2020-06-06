@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>profiling on Gophers in BCN</title>
+    <link>http://golangbcn.org/tags/profiling/</link>
+    <description>Recent content in profiling on Gophers in BCN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License&#39; style=&#39;border-width:0; width:44; height:16;&#39; src=&#39;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#39; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-sa/4.0/&#39;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 16 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://golangbcn.org/tags/profiling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>March meetup is here...</title>
+      <link>http://golangbcn.org/posts/meetup-march-2016/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://golangbcn.org/posts/meetup-march-2016/</guid>
+      <description>&lt;p&gt;We had the second 2016&amp;rsquo;s meetup, this time with a Hangout On Air (recorded) talk by &lt;a href=&#34;https://twitter.com/goinggodotnet&#34; title=&#34;William Kennedy&#34;&gt;William Kennedy&lt;/a&gt;,
+&lt;a href=&#34;https://www.manning.com/books/go-in-action&#34; title=&#34;Go In Action&#34;&gt;&amp;lsquo;Go In Action&amp;rsquo;&lt;/a&gt; co-author, and &lt;a href=&#34;https://twitter.com/ifraixedes&#34; title=&#34;Ivan Fraixedes&#34;&gt;Ivan Fraixedes&lt;/a&gt;, fellow of this, and other, meetups :)&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
